@@ -1,4 +1,4 @@
-### Generating a GPG key
+## Generating a GPG key
 
 ```sh
 gpg --full-generate-key
