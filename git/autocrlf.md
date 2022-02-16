@@ -1,4 +1,4 @@
-### Auto CRLF git error
+## Auto CRLF git error
 
 - Paste this text in your terminal.
 
