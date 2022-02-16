@@ -1,4 +1,4 @@
-### Valgrind command
+## Valgrind command
 
 This tool is very useful to check memory leaks problems in your code.
 Here you have the command I normally use:
