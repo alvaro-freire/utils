@@ -1,4 +1,4 @@
-### Pretty git log in one line
+## Pretty git log in one line
 
 - Paste this text in your terminal
 
