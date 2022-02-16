@@ -1,6 +1,13 @@
 ## Valgrind command
 
 This tool is very useful to check memory leaks problems in your code.
+
+If you don't have this tool yet, you can easily install it with:
+
+```sh
+sudo apt install valgrind
+```
+
 Here you have the command I normally use:
 
 ```sh
