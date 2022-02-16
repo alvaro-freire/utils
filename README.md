@@ -8,6 +8,8 @@ Util commands and scripts
 
 ## Git utils: [Git](./git)
 
+> Git commands, tips or guides. Looking forward to adding more!
+
 <!-- LICENSE -->
 ## License
 
