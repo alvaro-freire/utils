@@ -7,7 +7,7 @@ even if they are in `~/dir1/dir2/dir3/`, then you should run this command:
 find . -name "*.bak" -type f
 ```
 
-> take for granted that you all understand that with `something.bak` I mean any file with the extension `.bak` :)
+> I took for granted that you all understand that with `something.bak` I mean any file with the extension `.bak` :)
 
 Now that you checked all the files that are called like that, you can delete them all with adding the option `-delete`, just this way:
 
