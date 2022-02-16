@@ -36,7 +36,7 @@ gpg --armor --export 3AA5C34371567BD2
 - Copy your GPG key, beginning with `-----BEGIN PGP PUBLIC KEY BLOCK-----` and ending with `-----END PGP PUBLIC KEY BLOCK-----`.
 
 - Now, just add your new GPG key to your GitHub account.
-- 
+
 > GitHub -> Settings -> SSH and GPG keys -> New GPG key
 
 Add the signing key to your git config:
