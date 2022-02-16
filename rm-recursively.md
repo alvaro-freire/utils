@@ -1,4 +1,4 @@
-### Delete all files of a specific name in the current directory recursively 
+## Delete all files of a specific name in the current directory recursively 
 
 If your current directory is `~/dir1/` and you want to find all files that are called `something.bak`,
 even if they are in `~/dir1/dir2/dir3/`, then you should run this command:
