@@ -4,7 +4,7 @@
 gpg --full-generate-key
 ```
 
-> `pg --default-new-key-algo rsa4096 --gen-key`
+> `gpg --default-new-key-algo rsa4096 --gen-key`
 
 ```sh
 gpg --list-secret-keys --keyid-format=long
