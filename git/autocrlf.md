@@ -1,4 +1,4 @@
-## Auto CRLF git error
+## Auto CRLF git warning
 
 - Paste this text in your terminal.
 
@@ -6,4 +6,4 @@
 git config core.autocrlf false
 ```
 
-> This is just my solution to git error: warning: `LF will be replaced by CRLF in "file"`
+> This is just my solution to git message: *warning: `LF will be replaced by CRLF in "file"`*
