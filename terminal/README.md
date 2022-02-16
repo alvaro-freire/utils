@@ -6,4 +6,4 @@
 
 ### Tools
 
-- Install and execute [valgrind](./valgrind.md)
+- Install and execute [valgrind.](./valgrind.md)
