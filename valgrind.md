@@ -7,4 +7,4 @@ Here you have the command I normally use:
 valgrind --leak-check=full --show-leak-kinds=all --track-origins=yes --verbose --log-file=log.txt ./program
 ```
 
-> Note: if your program is "main", then your command should end up with ./main instead of ./program
+> Note: if your program is `"main"`, then your command should end up with `./main` instead of `./program`
