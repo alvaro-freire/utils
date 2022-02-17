@@ -1,16 +1,24 @@
 ### Generating a new SSH key
 
-- ssh-keygen -t ed25519 -C "your_email@example.com" 
+```sh
+ssh-keygen -t ed25519 -C "your_email@example.com" 
+```
 
 ### Adding your SSH key to the ssh-agent
 
-- eval "$(ssh-agent -s)"
+```sh
+eval "$(ssh-agent -s)"
+```
 
-- ssh-add ~/.ssh/id_ed25519
+```sh
+ssh-add ~/.ssh/id_ed25519
+```
 
 ### Adding a new SSH key to your GitHub account
 
-- cat ~/.ssh/id_ed25519.pub
+```sh
+cat ~/.ssh/id_ed25519.pub
+```
 
     - Now, go to Github -> Settings, and click *SSH and GPG keys* on *Access* section.
 
