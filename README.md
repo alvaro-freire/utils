@@ -2,7 +2,7 @@
 
 Util commands and scripts
 
-## Terminal utils: [Terminal](./terminal)
+## Bash utils: [Bash](./terminal)
 
 > Util commands, in general.
 
