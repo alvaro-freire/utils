@@ -1,4 +1,4 @@
-## Terminal utils
+## Bash utils
 
 ### Utils
 
