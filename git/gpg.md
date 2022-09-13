@@ -1,6 +1,6 @@
 ## Generating a GPG key
 
-Run this command to generate a GPG key:
+- Run this command to generate a GPG key:
 
 ```sh
 gpg --full-generate-key
@@ -8,7 +8,7 @@ gpg --full-generate-key
 
 > try `gpg --default-new-key-algo rsa4096 --gen-key` if the previous command failed.
 
-Now you need to print the list of GPG keys in your system:
+- Now you need to print the list of GPG keys in your system:
 
 ```sh
 gpg --list-secret-keys --keyid-format=long
@@ -25,7 +25,7 @@ uid                          Hubot
 ssb   4096R/42B317FD4BA89E7A 2016-03-10
 ```
 
-Run this command:
+- Run this command:
 
 ```sh
 gpg --armor --export 3AA5C34371567BD2
@@ -39,13 +39,13 @@ gpg --armor --export 3AA5C34371567BD2
 
 > GitHub -> Settings -> SSH and GPG keys -> New GPG key
 
-Add the signing key to your git config:
+- Add the signing key to your git config:
 
 ```sh
 git config --global user.signingkey 3AA5C34371567BD2
 ```
 
-Activate GPG sign for commits in your git config:
+- Activate GPG sign for commits in your git config:
 
 ```sh
 git config --global commit.gpgSign true
