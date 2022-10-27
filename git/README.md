@@ -10,6 +10,10 @@
 
 - [Pretty git log](./git-lg.md) in one line.
 
+### Custom
+
+- [My custom `.gitconfig`](./git-config.md) file.
+
 ### Error/warning solutions
 
 - warning: LF will be replaced by CRLF in `file`. [here](./autocrlf.md)
