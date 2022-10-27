@@ -12,7 +12,7 @@
 
 ### Custom
 
-- [My custom `.gitconfig`](./git-config.md) file.
+- My [custom `.gitconfig`](./git-config.md) file.
 
 ### Error/warning solutions
 
