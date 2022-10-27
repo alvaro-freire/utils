@@ -11,4 +11,6 @@
 [user]
 	email = alvaro.freirea@udc.es
 	name = Álvaro Freire
+[commit]
+	gpgSign = true
 ```
