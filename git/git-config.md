@@ -8,9 +8,14 @@
 	st = status
 	hard = reset --hard
 	amend = commit --amend
+        cc = shortlog -sn --all
 [user]
 	email = alvaro.freirea@udc.es
 	name = Álvaro Freire
 [commit]
 	gpgSign = true
+[pull]
+        rebase = true
+[init]
+        defaultBranch = main
 ```
